@@ -1,0 +1,232 @@
+[
+  {
+    "id": "GOT-001",
+    "category": "House Stark",
+    "difficulty": "Easy",
+    "taskType": "MCQ",
+    "question": "What is the motto of House Stark?",
+    "choices": [
+      { "text": "Fire and Blood", "isCorrect": false, "explanation": "Incorrect. That belongs to House Targaryen." },
+      { "text": "Winter Is Coming", "isCorrect": true, "explanation": "Correct. House Stark’s motto is Winter Is Coming." },
+      { "text": "Hear Me Roar", "isCorrect": false, "explanation": "Incorrect. That is House Lannister’s official motto." },
+      { "text": "Growing Strong", "isCorrect": false, "explanation": "Incorrect. That belongs to House Tyrell." }
+    ],
+    "summaryExplanation": "House Stark is connected to the North, cold weather, duty, and survival.",
+    "points": 10,
+    "xp": 10,
+    "shuffleChoices": true,
+    "realmTheme": {
+      "title": "The North Remembers 🐺",
+      "location": "Winterfell",
+      "rewardEmoji": "🐺",
+      "ravenMessage": "A cold wind rises from the North..."
+    }
+  },
+  {
+    "id": "GOT-002",
+    "category": "House Lannister",
+    "difficulty": "Easy",
+    "taskType": "MCQ",
+    "question": "Which family is known for always paying its debts?",
+    "choices": [
+      { "text": "House Stark", "isCorrect": false, "explanation": "Incorrect. The Starks are known for honor and the North." },
+      { "text": "House Baratheon", "isCorrect": false, "explanation": "Incorrect. House Baratheon is tied to the stag and Robert’s Rebellion." },
+      { "text": "House Lannister", "isCorrect": true, "explanation": "Correct. The Lannisters are known for the saying, A Lannister always pays his debts." },
+      { "text": "House Greyjoy", "isCorrect": false, "explanation": "Incorrect. Greyjoys are tied to the Iron Islands." }
+    ],
+    "summaryExplanation": "House Lannister is associated with wealth, power, and political control.",
+    "points": 10,
+    "xp": 10,
+    "shuffleChoices": true,
+    "realmTheme": {
+      "title": "Gold of the Lion 🦁",
+      "location": "King’s Landing",
+      "rewardEmoji": "🦁",
+      "ravenMessage": "The raven whispers of gold and betrayal..."
+    }
+  },
+  {
+    "id": "GOT-003",
+    "category": "House Targaryen",
+    "difficulty": "Medium",
+    "taskType": "MCQ",
+    "question": "What are Daenerys Targaryen’s dragons named?",
+    "choices": [
+      { "text": "Drogon, Rhaegal, and Viserion", "isCorrect": true, "explanation": "Correct. Those are Daenerys’s three dragons." },
+      { "text": "Balerion, Meraxes, and Vhagar", "isCorrect": false, "explanation": "Incorrect. Those were older Targaryen dragons from history." },
+      { "text": "Ghost, Nymeria, and Summer", "isCorrect": false, "explanation": "Incorrect. Those are direwolves." },
+      { "text": "Blackfyre, Dark Sister, and Longclaw", "isCorrect": false, "explanation": "Incorrect. Those are Valyrian steel swords." }
+    ],
+    "summaryExplanation": "Daenerys’s dragons become major symbols of Targaryen power.",
+    "points": 15,
+    "xp": 15,
+    "shuffleChoices": true,
+    "realmTheme": {
+      "title": "Fire and Blood 🐉",
+      "location": "Dragonstone",
+      "rewardEmoji": "🐉",
+      "ravenMessage": "The sky darkens. Dragons are near..."
+    }
+  },
+  {
+    "id": "GOT-004",
+    "category": "The Night's Watch",
+    "difficulty": "Easy",
+    "taskType": "MCQ",
+    "question": "What is the main duty of the Night’s Watch?",
+    "choices": [
+      { "text": "Protect King’s Landing", "isCorrect": false, "explanation": "Incorrect. The City Watch protects King’s Landing." },
+      { "text": "Guard the Wall", "isCorrect": true, "explanation": "Correct. The Night’s Watch guards the Wall in the far North." },
+      { "text": "Train dragons", "isCorrect": false, "explanation": "Incorrect. The Night’s Watch has nothing to do with dragons." },
+      { "text": "Collect taxes for the crown", "isCorrect": false, "explanation": "Incorrect. Their duty is military defense, not taxes." }
+    ],
+    "summaryExplanation": "The Night’s Watch protects the realm from threats beyond the Wall.",
+    "points": 10,
+    "xp": 10,
+    "shuffleChoices": true,
+    "realmTheme": {
+      "title": "The Wall Stands 🧊",
+      "location": "Castle Black",
+      "rewardEmoji": "🧊",
+      "ravenMessage": "A raven arrives from Castle Black..."
+    }
+  },
+  {
+    "id": "GOT-005",
+    "category": "King's Landing",
+    "difficulty": "Medium",
+    "taskType": "MCQ",
+    "question": "Who becomes king after Robert Baratheon dies?",
+    "choices": [
+      { "text": "Stannis Baratheon", "isCorrect": false, "explanation": "Incorrect. Stannis claims the throne, but he does not immediately become king in King’s Landing." },
+      { "text": "Renly Baratheon", "isCorrect": false, "explanation": "Incorrect. Renly also claims the throne, but does not take King’s Landing." },
+      { "text": "Joffrey Baratheon", "isCorrect": true, "explanation": "Correct. Joffrey becomes king after Robert’s death." },
+      { "text": "Robb Stark", "isCorrect": false, "explanation": "Incorrect. Robb is declared King in the North, not king of the Seven Kingdoms." }
+    ],
+    "summaryExplanation": "Robert’s death triggers a major power struggle across Westeros.",
+    "points": 15,
+    "xp": 15,
+    "shuffleChoices": true,
+    "realmTheme": {
+      "title": "The Crown Falls 👑",
+      "location": "King’s Landing",
+      "rewardEmoji": "👑",
+      "ravenMessage": "The raven circles the Red Keep..."
+    }
+  },
+  {
+    "id": "GOT-006",
+    "category": "Direwolves",
+    "difficulty": "Medium",
+    "taskType": "MCQ",
+    "question": "What is the name of Jon Snow’s direwolf?",
+    "choices": [
+      { "text": "Nymeria", "isCorrect": false, "explanation": "Incorrect. Nymeria belongs to Arya Stark." },
+      { "text": "Ghost", "isCorrect": true, "explanation": "Correct. Jon Snow’s white direwolf is named Ghost." },
+      { "text": "Summer", "isCorrect": false, "explanation": "Incorrect. Summer belongs to Bran Stark." },
+      { "text": "Grey Wind", "isCorrect": false, "explanation": "Incorrect. Grey Wind belongs to Robb Stark." }
+    ],
+    "summaryExplanation": "Each Stark child’s direwolf reflects parts of their character and journey.",
+    "points": 15,
+    "xp": 15,
+    "shuffleChoices": true,
+    "realmTheme": {
+      "title": "Ghost in the Snow 🐺",
+      "location": "The North",
+      "rewardEmoji": "🐺",
+      "ravenMessage": "The raven lands beside fresh tracks in the snow..."
+    }
+  },
+  {
+    "id": "GOT-007",
+    "category": "The Red Wedding",
+    "difficulty": "Hard",
+    "taskType": "MCQ",
+    "question": "Which house betrays Robb Stark at the Red Wedding?",
+    "choices": [
+      { "text": "House Frey", "isCorrect": true, "explanation": "Correct. House Frey betrays Robb Stark during the Red Wedding." },
+      { "text": "House Tyrell", "isCorrect": false, "explanation": "Incorrect. The Tyrells are not the main betrayers at the Red Wedding." },
+      { "text": "House Martell", "isCorrect": false, "explanation": "Incorrect. House Martell is based in Dorne and is not responsible for the Red Wedding." },
+      { "text": "House Arryn", "isCorrect": false, "explanation": "Incorrect. House Arryn is not behind the Red Wedding." }
+    ],
+    "summaryExplanation": "The Red Wedding is one of the most shocking betrayals in the series.",
+    "points": 25,
+    "xp": 25,
+    "shuffleChoices": true,
+    "realmTheme": {
+      "title": "The Feast of Betrayal 🩸",
+      "location": "The Twins",
+      "rewardEmoji": "🩸",
+      "ravenMessage": "The raven refuses to sing at this feast..."
+    }
+  },
+  {
+    "id": "GOT-008",
+    "category": "Arya Stark",
+    "difficulty": "Medium",
+    "taskType": "MCQ",
+    "question": "Who trains Arya Stark in Braavos?",
+    "choices": [
+      { "text": "Syrio Forel", "isCorrect": false, "explanation": "Incorrect. Syrio trains Arya earlier in King’s Landing." },
+      { "text": "Jaqen H’ghar and the Faceless Men", "isCorrect": true, "explanation": "Correct. Arya trains with Jaqen H’ghar and the Faceless Men in Braavos." },
+      { "text": "Brienne of Tarth", "isCorrect": false, "explanation": "Incorrect. Brienne crosses paths with Arya but does not train her in Braavos." },
+      { "text": "The Hound", "isCorrect": false, "explanation": "Incorrect. The Hound travels with Arya, but he is not her Braavos trainer." }
+    ],
+    "summaryExplanation": "Arya’s training in Braavos transforms her into a much more dangerous character.",
+    "points": 15,
+    "xp": 15,
+    "shuffleChoices": true,
+    "realmTheme": {
+      "title": "A Girl Has No Name 🗡️",
+      "location": "Braavos",
+      "rewardEmoji": "🗡️",
+      "ravenMessage": "The raven speaks softly: a name has been offered..."
+    }
+  },
+  {
+    "id": "GOT-009",
+    "category": "The Iron Throne",
+    "difficulty": "Hard",
+    "taskType": "MCQ",
+    "question": "Who ultimately destroys the Iron Throne in the series finale?",
+    "choices": [
+      { "text": "Jon Snow", "isCorrect": false, "explanation": "Incorrect. Jon kills Daenerys, but he does not destroy the throne." },
+      { "text": "Drogon", "isCorrect": true, "explanation": "Correct. Drogon melts the Iron Throne with dragonfire." },
+      { "text": "Tyrion Lannister", "isCorrect": false, "explanation": "Incorrect. Tyrion helps shape the new political order, but he does not destroy the throne." },
+      { "text": "Bran Stark", "isCorrect": false, "explanation": "Incorrect. Bran becomes king afterward, but he does not destroy the throne." }
+    ],
+    "summaryExplanation": "The destruction of the Iron Throne symbolizes the end of the old struggle for absolute power.",
+    "points": 25,
+    "xp": 25,
+    "shuffleChoices": true,
+    "realmTheme": {
+      "title": "Ashes of the Throne 🔥",
+      "location": "King’s Landing",
+      "rewardEmoji": "🔥",
+      "ravenMessage": "Smoke rises above the ruined throne room..."
+    }
+  },
+  {
+    "id": "GOT-010",
+    "category": "Final Ruler",
+    "difficulty": "Hard",
+    "taskType": "MCQ",
+    "question": "Who is chosen as king at the end of the series?",
+    "choices": [
+      { "text": "Jon Snow", "isCorrect": false, "explanation": "Incorrect. Jon is sent back to the Night’s Watch." },
+      { "text": "Sansa Stark", "isCorrect": false, "explanation": "Incorrect. Sansa becomes Queen in the North." },
+      { "text": "Bran Stark", "isCorrect": true, "explanation": "Correct. Bran Stark is chosen as king." },
+      { "text": "Tyrion Lannister", "isCorrect": false, "explanation": "Incorrect. Tyrion becomes Hand of the King." }
+    ],
+    "summaryExplanation": "The ending creates a new form of rule, with Bran chosen by council instead of inheriting the throne.",
+    "points": 25,
+    "xp": 25,
+    "shuffleChoices": true,
+    "realmTheme": {
+      "title": "The Broken Crown 👑",
+      "location": "Dragonpit",
+      "rewardEmoji": "👑",
+      "ravenMessage": "The raven watches as a new ruler is chosen..."
+    }
+  }
+]
